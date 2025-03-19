@@ -1,4 +1,4 @@
-NODE AND EXPRESS BOOK:
+<!-- NODE AND EXPRESS BOOK:
     - package.json & package-lock.json file setup
     - nodemon setup
     - app.ts & serve command 
@@ -26,6 +26,6 @@ Data base:
                 decor_categories
             ]
 
-Image Storage:
+<!--Image Storage:
             image_storage -> upload image on imgur platform take the direct link and add it into a mongodb collections. 
             <!-- login_creds: mohammedumer192 -->
